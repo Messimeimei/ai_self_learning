@@ -1,0 +1,49 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE files
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Other files
+*.log
+*.DS_Store
+*.so
+*.dll
+*.pdb
+*.tgz
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Secrets
+.env
+*.env
+
+# MyPy
+.mypy_cache/
